@@ -26,9 +26,9 @@
 
 1. これ以降は、新規作成とコピペを繰り返します。  
    すべてのファイルをコピペして上書きしてください。
-   index.html⇒index.html
-   indexJS.html⇒index.html
-   parts.js⇒parts.gs
+   index.html⇒index.html  
+   indexJS.html⇒index.html  
+   parts.js⇒parts.gs  
    main.js⇒コード.gs  
      
    新規作成  

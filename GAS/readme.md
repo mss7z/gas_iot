@@ -1,4 +1,4 @@
-# あなたのアカウントでこのプログラムを動かす方法
+# Googleアカウントでこのプログラムを動かす方法
 
 1. グーグルアカウントにログインし、ドライブを開きます。
 1. 新規スプレッドシートを作成します  
@@ -25,7 +25,11 @@
    ![image](https://github.com/mss7z/gas_iot/assets/49343918/b62d940e-1e2a-47de-8dd1-3db6c0f3297b)  
 
 1. これ以降は、新規作成とコピペを繰り返します。  
-   すべてのファイルをコピペして上書きしてください。  
+   すべてのファイルをコピペして上書きしてください。
+   index.html⇒index.html
+   indexJS.html⇒index.html
+   parts.js⇒parts.gs
+   main.js⇒コード.gs  
      
    新規作成  
    ![image](https://github.com/mss7z/gas_iot/assets/49343918/5b488fde-12d2-4562-8def-1cc1bcc3d2c5)
